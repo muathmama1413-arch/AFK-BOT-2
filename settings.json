@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot 2", 
+    "username": "AFKBot2", 
     "password": "",
     "type": "offline"
   },
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 60,
 
